@@ -12,7 +12,7 @@
 | ---------------------- | -------- |
 | Khin Yadanar Moe       | 6612128  |
 | Nattasasi Nithiworanan | 6610918  |
-| Aye Myat Myat Mon      | U6611944 |
+| Aye Myat Myat Mon      | 6611944  |
 
 ---
 
